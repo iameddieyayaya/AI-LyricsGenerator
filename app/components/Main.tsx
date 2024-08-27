@@ -92,7 +92,7 @@ const LyricsGeneratorApp = () => {
 
         <div className="mt-8 flex justify-center">
           <a
-            href="https://github.com/iameddieyayaya/ResumeAudit-AI"
+            href="https://github.com/iameddieyayaya/AI-LyricsGenerator"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center text-gray-800 hover:text-gray-600"
